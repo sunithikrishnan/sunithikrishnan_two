@@ -9,3 +9,4 @@ In addition to my love for New England, I also love exploring outside of it thro
 I hope that this helped you learn a little more about me!  
 
 ![Traveling Around The Globe](https://img.pikbest.com/png-images/qiantu/cartoon-hand-drawn-air-plane-traveling-around-the-world_2716320.png!w700wp)
+theme: jekyll-theme-minimal
