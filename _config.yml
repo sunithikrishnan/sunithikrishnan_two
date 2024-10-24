@@ -1,0 +1,5 @@
+title: "Sunithi Krishnan Personal Website"
+description: "A website about Sunithi Krishnan, a Northeastern University student."
+theme: jekyll-theme-minimal
+baseurl: "" # leave blank unless your site is hosted in a subdirectory
+url: "https://your-username.github.io" # replace with your GitHub Pages URL
